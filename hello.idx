@@ -1,12 +1,12 @@
 class Main(){
-     function(int a, int b){
+     function subs(int a, int b){
          return a - b;
      
 
      }
 
 
-     function(int a, int b){
+     function adds(int a, int b){
           return a + b;
      
 
